@@ -3,10 +3,10 @@
   Desenvolvedora de Software • Full Stack • Entusiasta de UX/UI
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafaelafjardim/">🔗 LinkedIn</a>
-</p>
-
+  <a href="https://www.linkedin.com/in/rafaelafjardim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="🔗 LinkedIn">
+  </a>
+  
 ---
 
 ### 🚀 Sobre mim
