@@ -69,7 +69,7 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
 ### 💜 Comunidade e Voluntariado
 
 - **UX/UI Designer** – Pipoca Ágil  
-- **Mulheres na </TI>** – Organização de eventos, palestras e apoio a mulheres em transição para a área de tecnologia.  
+- **Mulheres na TI** – Organização de eventos, palestras e apoio a mulheres em transição para a área de tecnologia.  
 - **SAP Labs - External Batch** – Participação em programa intensivo com foco em backend, IA, DevOps e soft skills.
 
 ---
@@ -85,8 +85,4 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
 
 ### 🐍 Snake Contribution Graph
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelaflores/rafaelaflores/output/github-contribution-grid-snake-dark.svg"> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelaflores/rafaelaflores/output/github-contribution-grid-snake.svg">
-    <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelaflores/rafaelaflores/output/github-contribution-grid-snake.svg">
-  </picture>
+![GitHub Snake](https://github.com/rafaelaflores/rafaelaflores/blob/output/github-contribution-grid-snake.svg)
