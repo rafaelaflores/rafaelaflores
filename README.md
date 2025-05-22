@@ -80,3 +80,10 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelaflores&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelaflores&layout=compact&theme=radical" />
 </p>
+
+---
+
+### 🐍 Snake Contribution Graph
+
+![snake gif](https://github.com/rafaelaflores/rafaelaflores/blob/output/github-contribution-grid-snake.svg)
+
