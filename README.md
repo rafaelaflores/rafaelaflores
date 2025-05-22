@@ -4,9 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rafaelafloresjardim@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/seu-usuario">🔗 LinkedIn</a> •
-  <a href="https://github.com/seu-usuario">🐙 GitHub</a>
+  <a href="https://www.linkedin.com/in/rafaelafjardim/">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -38,17 +36,17 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
 
 ### 💼 Experiência
 
-- **Catálogo Mobile** (2025 - Atual)  
-  Autônoma. Desenvolvimento de funcionalidades com **SAPUI5**, **Node.js**, integração de APIs, emissão de boletos, e reconhecimento facial para controle escolar.
+- **South System (2021 - 2022)** — Estagiária Backend  
+  Participação no programa +PraTI com foco em Java, Docker, RabbitMQ e APIs REST.  
 
-- **BuscaSim** (2024 - 2025)  
-  Autônoma. Redesign de UI/UX com **Angular**, correções críticas e melhorias em PDF e navegação de produtos.
+- **Diário Escola (2023 - Atual)** — FullStack  
+  Desenvolvimento com JavaScript, PHP e SAPUI5.
 
-- **Diário Escola** (2023 - Atual)  
-  FullStack com **ReactJS** + **PHP**, geração de eBooks, formulários e otimizações de performance.
+- **BuscaSim (2024 - 2025)** — FullStack Autônoma  
+  Desenvolvimento com ReactJS, TypeScript e PHP.
 
-- **South System** (2021 - 2022)  
-  Estágio Backend com foco em **Java**, **Docker**, **APIs REST** e **RabbitMQ**, seguindo práticas ágeis com SCRUM.
+- **Catálogo Mobile (2025 - Atual)** — Frontend Autônoma  
+  Modernização de UI/UX com Angular, TypeScript e SCSS.
 
 ---
 
