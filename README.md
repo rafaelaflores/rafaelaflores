@@ -76,7 +76,7 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
 
 ---
 
-### 📊 GitHub Stats
+### 📊
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelaflores&show_icons=true&theme=radical" />
@@ -85,6 +85,6 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
 
 ---
 
-### 🐍 Snake Contribution Graph
+### 🐍
 
 ![GitHub Snake](https://github.com/rafaelaflores/rafaelaflores/blob/output/github-contribution-grid-snake.svg)
