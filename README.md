@@ -85,5 +85,5 @@ Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades com
 
 ### 🐍 Snake Contribution Graph
 
-![snake gif](https://github.com/rafaelaflores/rafaelaflores/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://github.com/rafaelaflores/rafaelaflores/blob/output/github-contribution-grid-snake.svg)
 
