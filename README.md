@@ -15,7 +15,7 @@
 
 Sou desenvolvedora de software com experiência em desenvolvimento Full Stack utilizando tecnologias como **JavaScript**, **PHP**, **Node.js**, **TypeScript**, **Angular**, **ReactJS** e **Java**. Atuo com criação de APIs REST, integração com bancos de dados, testes automatizados e desenvolvimento de interfaces responsivas com foco em **UX/UI**.
 
-Apaixonada por tecnologia e aprendizagem contínua, participo de comunidades como o *Mulheres na TI* e iniciativas como o *Programa de Mentoria Mulheres Agilistas* e o *Digitalization Portfolio Program* da SAP Labs.
+Apaixonada por tecnologia e aprendizagem contínua, participei de comunidades como o *Mulheres na TI* e iniciativas como o *Programa de Mentoria Mulheres Agilistas* e o *Digitalization Portfolio Program* da SAP Labs.
 
 ---
 
