@@ -31,7 +31,7 @@ Apaixonada por tecnologia e aprendizagem contínua, participei de comunidades co
   Participação no programa +PraTI com foco em Java, Docker, RabbitMQ e APIs REST.  
 
 - **Diário Escola (2023 - Atual)** — FullStack  
-  Desenvolvimento com JavaScript, PHP e SAPUI5.
+  Desenvolvimento com JavaScript, PHP, SAPUI5, ReactJS, TypeScript, Java e Kotlin.
 
 - **BuscaSim (2024 - 2025)** — FullStack Autônoma  
   Desenvolvimento com ReactJS, TypeScript e PHP.
